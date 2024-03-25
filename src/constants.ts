@@ -1,1 +1,1 @@
-export const DB_NAME = "xspark-videos";
+export const DB_NAME = "xspark-videos" as const;
